@@ -1,0 +1,32 @@
+monitoring/LAPTOP-C6G7IUNT/memory/free_mb 7063
+monitoring/LAPTOP-C6G7IUNT/memory/swap_mb 0
+monitoring/LAPTOP-C6G7IUNT/memory/cpu_user 0
+monitoring/LAPTOP-C6G7IUNT/memory/cpu_system 0
+monitoring/LAPTOP-C6G7IUNT/memory/cpu_idle 100
+monitoring/LAPTOP-C6G7IUNT/memory/timestamp 2026-03-22 15:40:08
+monitoring/LAPTOP-C6G7IUNT/memory/vmstat_raw  1  0      0   7063      1    163    0    0   341    67  134    0  0  0 100  0  0  0
+monitoring/LAPTOP-C6G7IUNT/memory/warning OK: 7063MB свободно
+monitoring/LAPTOP-C6G7IUNT/memory/free_mb 7057
+monitoring/LAPTOP-C6G7IUNT/memory/swap_mb 0
+monitoring/LAPTOP-C6G7IUNT/memory/cpu_user 0
+monitoring/LAPTOP-C6G7IUNT/memory/cpu_system 0
+monitoring/LAPTOP-C6G7IUNT/memory/cpu_idle 100
+monitoring/LAPTOP-C6G7IUNT/memory/timestamp 2026-03-22 15:40:18
+monitoring/LAPTOP-C6G7IUNT/memory/vmstat_raw  0  0      0   7057      1    165    0    0   340    67  134    0  0  0 100  0  0  0
+monitoring/LAPTOP-C6G7IUNT/memory/warning OK: 7057MB свободно
+monitoring/LAPTOP-C6G7IUNT/memory/free_mb 7057
+monitoring/LAPTOP-C6G7IUNT/memory/swap_mb 0
+monitoring/LAPTOP-C6G7IUNT/memory/cpu_user 0
+monitoring/LAPTOP-C6G7IUNT/memory/cpu_system 0
+monitoring/LAPTOP-C6G7IUNT/memory/cpu_idle 100
+monitoring/LAPTOP-C6G7IUNT/memory/timestamp 2026-03-22 15:40:29
+monitoring/LAPTOP-C6G7IUNT/memory/vmstat_raw  0  0      0   7057      1    165    0    0   338    66  134    0  0  0 100  0  0  0
+monitoring/LAPTOP-C6G7IUNT/memory/warning OK: 7057MB свободно
+monitoring/LAPTOP-C6G7IUNT/memory/free_mb 7056
+monitoring/LAPTOP-C6G7IUNT/memory/swap_mb 0
+monitoring/LAPTOP-C6G7IUNT/memory/cpu_user 0
+monitoring/LAPTOP-C6G7IUNT/memory/cpu_system 0
+monitoring/LAPTOP-C6G7IUNT/memory/cpu_idle 100
+monitoring/LAPTOP-C6G7IUNT/memory/timestamp 2026-03-22 15:40:39
+monitoring/LAPTOP-C6G7IUNT/memory/vmstat_raw  0  0      0   7056      1    165    0    0   335    66  134    0  0  0 100  0  0  0
+monitoring/LAPTOP-C6G7IUNT/memory/warning OK: 7056MB свободно
