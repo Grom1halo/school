@@ -1,0 +1,19 @@
+=== Ping6 loopback ===
+PING ::1 (::1) 56 data bytes
+64 bytes from ::1: icmp_seq=1 ttl=64 time=0.033 ms
+64 bytes from ::1: icmp_seq=2 ttl=64 time=0.080 ms
+64 bytes from ::1: icmp_seq=3 ttl=64 time=0.082 ms
+
+--- ::1 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2023ms
+rtt min/avg/max/mdev = 0.033/0.065/0.082/0.022 ms
+
+=== Ping6 назначенного адреса ===
+PING 2001:db8::1 (2001:db8::1) 56 data bytes
+64 bytes from 2001:db8::1: icmp_seq=1 ttl=64 time=0.044 ms
+64 bytes from 2001:db8::1: icmp_seq=2 ttl=64 time=0.066 ms
+64 bytes from 2001:db8::1: icmp_seq=3 ttl=64 time=0.061 ms
+
+--- 2001:db8::1 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2051ms
+rtt min/avg/max/mdev = 0.044/0.057/0.066/0.009 ms
