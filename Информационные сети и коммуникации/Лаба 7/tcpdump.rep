@@ -1,0 +1,34 @@
+16:03:23.961202 IP localhost.45770 > localhost.5563: Flags [S], seq 3272233187, win 65495, options [mss 65495,sackOK,TS val 376498499 ecr 0,nop,wscale 7], length 0
+16:03:23.961240 IP localhost.5563 > localhost.45770: Flags [R.], seq 0, ack 3272233188, win 0, length 0
+16:03:24.144899 IP localhost.45780 > localhost.5563: Flags [S], seq 2757240358, win 65495, options [mss 65495,sackOK,TS val 376498683 ecr 0,nop,wscale 7], length 0
+16:03:24.144923 IP localhost.5563 > localhost.45780: Flags [R.], seq 0, ack 2757240359, win 0, length 0
+16:03:24.270502 IP localhost.45796 > localhost.5563: Flags [S], seq 514060159, win 65495, options [mss 65495,sackOK,TS val 376498809 ecr 0,nop,wscale 7], length 0
+16:03:24.270526 IP localhost.5563 > localhost.45796: Flags [R.], seq 0, ack 514060160, win 0, length 0
+16:03:24.412535 IP localhost.45802 > localhost.5563: Flags [S], seq 4121045725, win 65495, options [mss 65495,sackOK,TS val 376498951 ecr 0,nop,wscale 7], length 0
+16:03:24.412558 IP localhost.5563 > localhost.45802: Flags [R.], seq 0, ack 4121045726, win 0, length 0
+16:03:24.599581 IP localhost.45810 > localhost.5563: Flags [S], seq 2325736429, win 65495, options [mss 65495,sackOK,TS val 376499138 ecr 0,nop,wscale 7], length 0
+16:03:24.599605 IP localhost.5563 > localhost.45810: Flags [R.], seq 0, ack 2325736430, win 0, length 0
+16:03:24.797123 IP localhost.45814 > localhost.5563: Flags [S], seq 50946894, win 65495, options [mss 65495,sackOK,TS val 376499335 ecr 0,nop,wscale 7], length 0
+16:03:24.797134 IP localhost.5563 > localhost.45814: Flags [R.], seq 0, ack 50946895, win 0, length 0
+16:03:24.907903 IP localhost.45822 > localhost.5563: Flags [S], seq 2684971009, win 65495, options [mss 65495,sackOK,TS val 376499446 ecr 0,nop,wscale 7], length 0
+16:03:24.907927 IP localhost.5563 > localhost.45822: Flags [R.], seq 0, ack 2684971010, win 0, length 0
+16:03:25.046462 IP localhost.45834 > localhost.5563: Flags [S], seq 4217593971, win 65495, options [mss 65495,sackOK,TS val 376499585 ecr 0,nop,wscale 7], length 0
+16:03:25.046484 IP localhost.5563 > localhost.45834: Flags [S.], seq 2373230162, ack 4217593972, win 65483, options [mss 65495,sackOK,TS val 376499585 ecr 376499585,nop,wscale 7], length 0
+16:03:25.046503 IP localhost.45834 > localhost.5563: Flags [.], ack 1, win 512, options [nop,nop,TS val 376499585 ecr 376499585], length 0
+16:03:25.046728 IP localhost.45834 > localhost.5563: Flags [P.], seq 1:11, ack 1, win 512, options [nop,nop,TS val 376499585 ecr 376499585], length 10
+16:03:25.046737 IP localhost.5563 > localhost.45834: Flags [.], ack 11, win 512, options [nop,nop,TS val 376499585 ecr 376499585], length 0
+16:03:25.046854 IP localhost.5563 > localhost.45834: Flags [P.], seq 1:12, ack 11, win 512, options [nop,nop,TS val 376499585 ecr 376499585], length 11
+16:03:25.046918 IP localhost.45834 > localhost.5563: Flags [.], ack 12, win 512, options [nop,nop,TS val 376499585 ecr 376499585], length 0
+16:03:25.046957 IP localhost.45834 > localhost.5563: Flags [P.], seq 11:65, ack 12, win 512, options [nop,nop,TS val 376499585 ecr 376499585], length 54
+16:03:25.047116 IP localhost.5563 > localhost.45834: Flags [P.], seq 12:65, ack 65, win 512, options [nop,nop,TS val 376499585 ecr 376499585], length 53
+16:03:25.047213 IP localhost.5563 > localhost.45834: Flags [P.], seq 65:92, ack 65, win 512, options [nop,nop,TS val 376499585 ecr 376499585], length 27
+16:03:25.047230 IP localhost.45834 > localhost.5563: Flags [.], ack 92, win 512, options [nop,nop,TS val 376499585 ecr 376499585], length 0
+16:03:25.047282 IP localhost.45834 > localhost.5563: Flags [P.], seq 65:120, ack 92, win 512, options [nop,nop,TS val 376499585 ecr 376499585], length 55
+16:03:25.087499 IP localhost.5563 > localhost.45834: Flags [.], ack 120, win 512, options [nop,nop,TS val 376499626 ecr 376499585], length 0
+16:03:26.975515 IP localhost.5563 > localhost.45834: Flags [P.], seq 92:900, ack 120, win 512, options [nop,nop,TS val 376501514 ecr 376499585], length 808
+16:03:27.022005 IP localhost.45834 > localhost.5563: Flags [.], ack 900, win 506, options [nop,nop,TS val 376501560 ecr 376501514], length 0
+16:03:27.975890 IP localhost.5563 > localhost.45834: Flags [P.], seq 900:1330, ack 120, win 512, options [nop,nop,TS val 376502514 ecr 376501560], length 430
+16:03:27.975949 IP localhost.45834 > localhost.5563: Flags [.], ack 1330, win 503, options [nop,nop,TS val 376502514 ecr 376502514], length 0
+16:03:27.977033 IP localhost.45834 > localhost.5563: Flags [F.], seq 120, ack 1330, win 503, options [nop,nop,TS val 376502515 ecr 376502514], length 0
+16:03:27.977204 IP localhost.5563 > localhost.45834: Flags [F.], seq 1330, ack 121, win 512, options [nop,nop,TS val 376502515 ecr 376502515], length 0
+16:03:27.977234 IP localhost.45834 > localhost.5563: Flags [.], ack 1331, win 503, options [nop,nop,TS val 376502515 ecr 376502515], length 0
