@@ -1,0 +1,4 @@
+
+=== Эксперимент с задержкой пакетов ===
+Настройка: sudo tc qdisc add dev lo root netem delay 100ms
+Принято:   10240 байт
